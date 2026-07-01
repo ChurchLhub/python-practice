@@ -11,4 +11,4 @@ def divide(a, b):
     return a / b
 
 def login():
-    print("Login")
+    print("Administrator Login")
